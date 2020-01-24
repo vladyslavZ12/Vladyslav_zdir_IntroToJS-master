@@ -1,1 +1,1 @@
-# Vladyslav_zdir_IntroToJS-master
+Svg project
